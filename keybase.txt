@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aeiouxxx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aeiouxxx.github.io
+  * I am aeiouxxx (https://keybase.io/aeiouxxx) on keybase.
+  * I have a public key ASCFA3MDdRnjVXkW1mv3U2JmJSawSkoyLSPbIwvHkY905Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120850373037519e3557916d66bf75362662526b04a4a322d23db230bc7918f74e40a",
+      "host": "keybase.io",
+      "kid": "0120850373037519e3557916d66bf75362662526b04a4a322d23db230bc7918f74e40a",
+      "uid": "e6b309dc6fc7175e989ab3e73b12f319",
+      "username": "aeiouxxx"
+    },
+    "merkle_root": {
+      "ctime": 1616456626,
+      "hash": "d81e6bf8e4d4355cb7918b4c4b2c9d8ac1847f112fe0b63f2133e2e96c6d0dedf6d65e734da9209fb4fc566da66e1652d8cb2d0a9efa4d524889839059a2b350",
+      "hash_meta": "b9d0feb06454fab959c2f8feb05832fc0ba25abcb1b0d553571812862b3b4ff1",
+      "seqno": 19443424
+    },
+    "service": {
+      "entropy": "aetxPmqegr875krj36eCMibT",
+      "hostname": "aeiouxxx.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1616456702,
+  "expire_in": 504576000,
+  "prev": "9051d440de6c336f4d4a1d4ca8fcf9ebd58a7352a0a43a25098a417d53b25ac3",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghQNzA3UZ41V5FtZr91NiZiUmsEpKMi0j2yMLx5GPdOQKp3BheWxvYWTESpcCDMQgkFHUQN5sM29NSh1MqPz569WKc1KgpDolCYpBfVOyWsPEIAgYOBR07rDV4Dw8JABBtjNfvDIoOkk0tpUhWL8lL9VMAgHCo3NpZ8RAr/sg8hlQNlTEZQwc1rslzpNGOmuNKYlw/IqBsB9KmYmPeYBPPW2+wu48+0gS/mdJEag3LsjPtb7kjse8HFOcBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPOE5EZlGojq4SQE3fn13zC9SikyaJaCu6ZF+rTy4sk5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aeiouxxx
+
+==================================================================
